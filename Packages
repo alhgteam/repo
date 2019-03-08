@@ -1,5 +1,5 @@
 Package: com.alhgteam.callbarxstw
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
 Depends: firmware (>=11.0)
