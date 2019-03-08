@@ -1,10 +1,2 @@
-# 瘋先生 MRMAD's Repo
+# 阿拉花瓜實驗室(越獄群) Repo
 Welcome to my Cydia Repo.
-
-&nbsp;
-
-Email - mrmadtw@gmail.com
-
-Web - https://mrmad.com.tw
-
-Twitter - [@mrmadtw](https://twitter.com/mrmadtw)
