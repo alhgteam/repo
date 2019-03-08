@@ -5,9 +5,9 @@ Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
 Depends: firmware (>=11.0)
 Filename: ./deb/com.alhgteam.callbarxstw.deb
 Size: 2084
-MD5sum: fdc9acf06530e87832115f0a2c10e0a2
-SHA1: 37bea379d6196dd7f70bdc86a10383194b0c1aa8
-SHA256: 008cc5821366608a92949edbd1c0e7c374074186c2fcb207c7a361e9dcb98621
+MD5sum: 71d59939a3d00e5b2383fa27bc93fd77
+SHA1: dca4acbab7ed10e206b6cd08649be0874d18ba02
+SHA256: 7d5598250ba15c55026e9dd5db5ff4fe9ce6f7264e463277bae351d9c24f0a14
 Section: Localization
 Description: CallBarXS 中文化
 Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
