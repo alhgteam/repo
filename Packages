@@ -1,11 +1,11 @@
 Package: com.alhgteam.callbarxstw
-Version: 1.0-1
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
 Depends: firmware (>=11.0)
 Filename: ./deb/com.alhgteam.callbarxstw.deb
-Size: 2094
-MD5sum: f7d07813wG8KRQx1tpCkCBWRyYrdqfuaCUcagvmq
+Size: 2096
+MD5sum: 232df8c9f7ae0a993bc8d9e7fe465a95
 Section: Localization
 Description: CallBarXS 中文化
 Depiction: https://alhgteam.github.io/repo/depiction/callbarxstw/index.html
