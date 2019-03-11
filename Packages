@@ -39,3 +39,17 @@ Section: Localization
 Filename: ./deb/com.alhgteam.bettersettingstw.deb
 Size: 1692
 MD5sum: 24057427c50b7047c7ad55862c895c36
+
+Package: com.alhgteam.togglowtw
+Name: Togglow 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Togglow 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.togglowtw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.togglowtw.deb
+Size: 2580
+MD5sum: 2cf617aba4dfba9512b59658b1257f8a
