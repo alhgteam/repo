@@ -11,3 +11,17 @@ Section: Localization
 Filename: ./deb/com.alhgteam.callbarxstw.deb
 Size: 2096
 MD5sum: 232df8c9f7ae0a993bc8d9e7fe465a95
+
+Package: com.alhgteam.audiorecoderxstw
+Name: AudioRecoder XS 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: AudioRecoder XS 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.audiorecoderxstw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.audiorecoderxstw.deb
+Size: 13028
+MD5sum: 43cf3626f02b7ae3650233dbcc287814
