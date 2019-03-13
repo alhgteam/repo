@@ -109,3 +109,45 @@ Section: Localization
 Filename: ./deb/com.alhgteam.powermoduletw.deb
 Size: 1026
 MD5sum: b025c5beb921311d94c514cc1954af9c
+
+Package: com.alhgteam.betterccxitw
+Name: BetterCCXI 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: BetterCCXI 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.betterccxitw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.betterccxitw.deb
+Size: 1168
+MD5sum: 8e1f73e1ca27f6e7564b423a3decf8d8
+
+Package: com.alhgteam.byehomebottombarxtw
+Name: ByeHomeBottomBarX 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ByeHomeBottomBarX 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.byehomebottombarxtw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.byehomebottombarxtw.deb
+Size: 1192
+MD5sum: 6cf493232d0ba4a650739c95d3a34b64
+
+Package: com.alhgteam.dleasytw
+Name: DLEasy 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: DLEasy 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.dleasytw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.dleasytw.deb
+Size: 954
+MD5sum: 0bc13ec535a731794649a930e7f83a1c
