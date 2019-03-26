@@ -193,3 +193,17 @@ Section: Localization
 Filename: ./deb/com.alhgteam.fingertouchtw.deb
 Size: 1404
 MD5sum: 7ded3d64e67ebcb02a3490748d31482a
+
+Package: com.alhgteam.opennotifiertw
+Name: OpenNotifiertw 中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: OpenNotifiertw 中文化
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Conflicts: com.alhgteam.opennotifiertw
+Maintainer: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Author: ALHG-Safe-Team <shadow1021shadow@gmail.com>
+Section: Localization
+Filename: ./deb/com.alhgteam.opennotifiertw.deb
+Size: 1674
+MD5sum: 603ed5deaed047ff229c27de145d4ce8
